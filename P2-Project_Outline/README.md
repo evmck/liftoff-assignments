@@ -7,15 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-BurlApp is an attempt at applying concepts I've learned from launchcode to hypothetically make facets of running a coffee shop easier. The intention of this app is to create the most ideal work schedule possible that fulfills the needs of the store & the employees by allowing user input for schedules & checking it against a series of requisites & allowing for export as an (image? pdf? excel spreadsheet?) & retain records for posterity as well
+BurlApp is an attempt at applying concepts I've learned from launchcode to hypothetically make facets of running a coffee shop easier. The intention of this app is to utilize machine learning to take a set amount of data (in this case, employee availability) and match it against the needs of the store (as defined by scheduler requirements) to generate viable schedules for a hypothetical coffee shop.
 ### Features
-Schedule Creation - Users will be able to take object based employees (this isn't rich satire on the service industry's tendency to be dehumanizing)
-Editing Employee/Store Needs - editing/confirming schedule requirements 
-Schedule Publishing - Exporting schedule for easy viewing!
-Viewing History - Looking at the history of schedules/maybe abstracts like hours worked for any given employee object
+User Authentication
+User Roles
+Editing User attributes
+User creation/deletion
+Schedule viewing
+Schedule Generation
+Schedule Editing
+Schedule History
 ### Technologies
-Javascript? React? Some kind of backend for CRUD, I haven't thought about this part much yet
-### What I'll Have to Learn
-Maybe react for frontend, how to export data created by app as a spreadsheet or some other format for publishing to Employees/etc, publishing data to some format that is recognizable by the app as historical entries for the schedule
+Spring, React, Google Calendar API, Amazon Sagemaker & MySQL.
 ### Project Tracker
 https://trello.com/b/xANtGYEk/burlapp
