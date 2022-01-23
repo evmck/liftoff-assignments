@@ -7,9 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-- !(/wireframes/Login.png)
-- !(/wireframes/Landing.png)
-- !(/wireframes/Dynamic Content examples.png)
+- ![login](/wireframes/Login.png)
+- ![Landing](/wireframes/Landing.png)
+- ![Dynamic](/wireframes/Dynamic Content examples.png)
 
 
 ### Project Tracker
