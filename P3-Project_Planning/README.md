@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 - ![login](/wireframes/Login.png)
 - ![Landing](/wireframes/Landing.png)
-- ![Dynamic](/wireframes/Dynamic Content examples.png)
+- ![Dynamic](/wireframes/Dynamic.png)
 
 
 ### Project Tracker
